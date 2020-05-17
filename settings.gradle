@@ -1,0 +1,2 @@
+rootProject.name='Collappsing toobar'
+include ':app'
